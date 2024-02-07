@@ -1,2 +1,0 @@
-# Banking Marketing Campaign Analysis
-
