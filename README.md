@@ -1,2 +1,2 @@
-# DataMining
-Banking Marketing Campaign Analysis
+# Banking Marketing Campaign Analysis
+
